@@ -8,4 +8,4 @@ Kode R tugas recoding Agregasi Data Nakes
 
 **3. Tabel Agregat Data Dokter di Jabar**
 
-Dataset jumlah data dokter di Jabar berdasarkan NIK per Kota/Kabupaten
+Dataset jumlah data dokter di Jabar berdasarkan NIK per Kota/Kabupaten dengan format file xlsx dan csv
